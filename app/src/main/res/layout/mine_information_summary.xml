@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginStart="5dp"
+    android:layout_marginEnd="5dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:orientation="horizontal">
+    
+    <ImageView
+        android:id="@+id/mine_information_image"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:src="@drawable/bai_lu"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/_1" />
+    
+    <LinearLayout
+        android:layout_weight="3"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/mine_information_textId"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:text="@string/id"
+            android:textStyle="bold"
+            android:layout_height="0dp"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/grey" />
+
+        <TextView
+            android:id="@+id/mine_information_personal_signature"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:textStyle="bold"
+            android:text="@string/个性签名"/>
+
+    </LinearLayout>
+    
+
+    
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@color/little_yellow"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/collections_item_shopping_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/商品名称"
+        android:textSize="20sp"
+        android:layout_margin="5dp"/>
+
+    <TextView
+        android:id="@+id/collections_item_shopping_unitPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/商品单价"
+        android:layout_margin="5dp"/>
+
+    <TextView
+        android:id="@+id/collections_item_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/收藏时间"
+        android:layout_margin="5dp"/>
+
+</LinearLayout>

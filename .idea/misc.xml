@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.209" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/cart_check_style.xml" value="0.23" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/cart_shopping_button_state.xml" value="0.207" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_baseline_fiber_manual_record_24.xml" value="0.1945" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_baseline_kf_24.xml" value="0.209" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2345" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.224" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_baseline_place_24.xml" value="0.199" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_baseline_qr_code_scanner_24.xml" value="0.209" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_baseline_right_24.xml" value="0.23" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_baseline_sentiment_very_satisfied_24.xml" value="0.209" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_baseline_support_agent_24.xml" value="0.209" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_bottom_add_shopping_cart_24.xml" value="0.224" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_bottom_home_24.xml" value="0.209" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_commodity_add_circle_24.xml" value="0.2245" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_commodity_minus_24.xml" value="0.2345" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/ic_launcher_background.xml" value="0.209" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/selector_toggle_button.xml" value="0.23" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/shape_dialog.xml" value="0.185" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/shape_dialog_bg.xml" value="0.209" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/shape_price_circular.xml" value="0.2345" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/shape_price_circure.xml" value="0.209" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/shape_text_shopping_list.xml" value="0.185" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/shape_toggle_button.xml" value="0.23" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/shape_toggle_button_true.xml" value="0.23" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/drawable/suqare.xml" value="0.185" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/activity_goods_details.xml" value="0.2" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/activity_login.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/activity_purchase_page.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/activity_register.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.25" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/buying_count.xml" value="0.21105072463768115" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/cart_main.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/cart_shopping_item.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/commodity_count.xml" value="0.2" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/detail_goods_price.xml" value="0.176" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/fragment_bottom_cart.xml" value="0.2" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/fragment_bottom_home.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/fragment_bottom_mine.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/home_recycle_text.xml" value="0.25783132530120484" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/home_recycler_banner.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/home_recycler_image.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/home_recycler_text_image.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/internet_style.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/location_place.xml" value="0.2" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/location_sending.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/mine_collections.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/mine_collections_item.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/mine_historical_orders.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/mine_historical_orders_item.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/mine_historical_orders_item_shopping_name.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/mine_information_summary.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/mine_setting.xml" value="0.18376068376068377" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/mine_small_change.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/network_type.xml" value="0.2" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/phone_color.xml" value="0.21105072463768115" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/purchase_page_business.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/purchase_page_location.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/purchase_page_payment_bottom_sheet_dialog.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/layout/set_meal_style.xml" value="0.21105072463768115" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22395833333333334" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/menu/cart_menu.xml" value="0.22291666666666668" />
+        <entry key="..\:/OnlineRetailers/app/src/main/res/menu/selector.xml" value="0.22395833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

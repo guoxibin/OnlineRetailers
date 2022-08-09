@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar"
+    android:background="@drawable/shape_dialog">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:gravity="top"
+        android:layout_margin="5dp">
+
+        <ImageView
+            android:id="@+id/bottom_sheet_goods_pic"
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_baseline_sentiment_very_satisfied_24"/>
+
+        <TextView
+            android:id="@+id/bottom_sheet_goods_original_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/yellow"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:textStyle="bold"
+            android:text="@string/_1199"/>
+
+        <TextView
+            android:id="@+id/bottom_sheet_goods_present_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_price_circular"
+            android:textColor="@color/white"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:textStyle="bold"
+            android:text="@string/_1009"/>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey"/>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <include layout="@layout/location_sending" />
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/grey" />
+
+            <include layout="@layout/network_type" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/grey" />
+
+            <include layout="@layout/set_meal_style" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/grey" />
+
+
+            <include layout="@layout/commodity_count" />
+
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey" />
+
+
+    <Button
+        android:id="@+id/bottom_sheet_goods_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="50dp"
+        android:background="@drawable/shape_price_circular"
+        android:text="@string/确定"
+        android:textStyle="bold" />
+
+</LinearLayout>
